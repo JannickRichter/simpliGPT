@@ -1,0 +1,984 @@
+{
+  "processed_ids": {
+    "RTbQKDy-umg": {
+      "title": "Der Pakt mit dem Speed Teufel",
+      "words": 1317,
+      "chars": 9309
+    },
+    "1agiqlf3YIk": {
+      "title": "Das Fett Problem",
+      "words": 1346,
+      "chars": 9121
+    },
+    "ncp1svm328U": {
+      "title": "Dieses Video wird dir nur zur Hälfte gefallen",
+      "words": 375,
+      "chars": 2673
+    },
+    "Wphnald81yo": {
+      "title": "Dein Gehirn ist Wahnsinn!",
+      "words": 1664,
+      "chars": 11330
+    },
+    "o9i3e4WiAnA": {
+      "title": "Warum Tattoo Entfernung so Wahnsinnig ist",
+      "words": 1372,
+      "chars": 9084
+    },
+    "HPjZDlQexeY": {
+      "title": "Wir wissen endlich mehr über die wichtigste Zivilisation",
+      "words": 2026,
+      "chars": 14056
+    },
+    "8rLrQFRkrgE": {
+      "title": "KI hat das Undenkbare getan - Was jetzt?",
+      "words": 2639,
+      "chars": 17662
+    },
+    "5_jcvQ0-vhI": {
+      "title": "Das ist der furchtbarste Ort im Universum",
+      "words": 1041,
+      "chars": 7114
+    },
+    "TX9tgi3aZOg": {
+      "title": "Warum Du 1 Milliarde Mal Sterben Musst, Um Unsterblich Zu Werden",
+      "words": 1647,
+      "chars": 10773
+    },
+    "EVEJtMs7hOM": {
+      "title": "Wie Bananen die Welt zerstören (Wegen euch!)",
+      "words": 1387,
+      "chars": 9520
+    },
+    "QWm_gX4Xrso": {
+      "title": "Wohin Man Auf KEINEN FALL Zeitreisen Sollte",
+      "words": 1550,
+      "chars": 10313
+    },
+    "x5GH-I8bz0M": {
+      "title": "Dieses Video ist nichts für Veganer",
+      "words": 2080,
+      "chars": 13387
+    },
+    "AXoj4FCnHaI": {
+      "title": "Wie viel Pech braucht eine Autoimmunerkrankung?",
+      "words": 1234,
+      "chars": 8835
+    },
+    "W5Bscl7ALrE": {
+      "title": "Du bist so gestresst wie noch nie - ändern wir das",
+      "words": 1494,
+      "chars": 10515
+    },
+    "hxPLRPQo5UI": {
+      "title": "Die Unbequeme Wahrheit über Ozempic",
+      "words": 2014,
+      "chars": 14121
+    },
+    "jdBlpyCom3U": {
+      "title": "DEUTSCHLAND IST AM ENDE",
+      "words": 1928,
+      "chars": 13274
+    },
+    "qMEM3RemoPA": {
+      "title": "Die absurdeste Waffe, von der Du noch nie gehört hast",
+      "words": 1735,
+      "chars": 11795
+    },
+    "kqIMDgepyqo": {
+      "title": "Warum Fentanyl so gut ist",
+      "words": 2011,
+      "chars": 13192
+    },
+    "ICFZy5JN0yM": {
+      "title": "Dein Hirn macht dich jeden Tag 2 Stunden blind",
+      "words": 1690,
+      "chars": 11180
+    },
+    "4zBFUAW6on0": {
+      "title": "Warum die USA jede Woche Millionen verstrahlter Fliegen freilassen",
+      "words": 1297,
+      "chars": 9456
+    },
+    "iFOUdu-aKzM": {
+      "title": "Warum gibt es keine Löcher um Bäume herum?",
+      "words": 1485,
+      "chars": 10174
+    },
+    "3BaCX-vzvBU": {
+      "title": "Wie kann ein dummer Shrimp dich töten?",
+      "words": 1506,
+      "chars": 10508
+    },
+    "NE-7UBbbhSA": {
+      "title": "Alkohol ist GROSSARTIG",
+      "words": 1886,
+      "chars": 12736
+    },
+    "y9Qk-y9Ov5I": {
+      "title": "Bäume sind so viel wilder als du denkst",
+      "words": 1602,
+      "chars": 10579
+    },
+    "gaF1Yjdwq0w": {
+      "title": "Warum Vaping so fantastisch ist",
+      "words": 1702,
+      "chars": 11718
+    },
+    "Q6p4kz35g4Q": {
+      "title": "Diese neuen Viren verändern alles!",
+      "words": 1715,
+      "chars": 11592
+    },
+    "Ri5RzmaCHLU": {
+      "title": "So sehen Aliens wirklich aus!",
+      "words": 2018,
+      "chars": 13410
+    },
+    "ZU0A3AiJKc4": {
+      "title": "Was verbirgt sich im tiefsten Loch der Welt?",
+      "words": 1779,
+      "chars": 11787
+    },
+    "YC7JGcTvdBk": {
+      "title": "...könnte nächste Woche dein Leben retten!",
+      "words": 1977,
+      "chars": 12922
+    },
+    "ICuT4TqEHsE": {
+      "title": "Krasser als Schwarze Löcher: Gravasterne Erklärt",
+      "words": 1534,
+      "chars": 10142
+    },
+    "4ys3Z7_5nn8": {
+      "title": "AI Slop zerstört das Internet",
+      "words": 1259,
+      "chars": 8539
+    },
+    "-sNiIwGn46Y": {
+      "title": "Das dümmste Tier der Welt",
+      "words": 1201,
+      "chars": 8054
+    },
+    "eOKY06SD6Yk": {
+      "title": "Kann die Menschheit einen Riesen-Asteroiden stoppen?",
+      "words": 1729,
+      "chars": 11146
+    },
+    "t5QSSKXzwNw": {
+      "title": "Das Kurzgesagt Game ist endlich da!",
+      "words": 153,
+      "chars": 1027
+    },
+    "WX7FslRtwu0": {
+      "title": "Zeitreisen – Science-Fiction oder Realität?",
+      "words": 1327,
+      "chars": 8723
+    },
+    "l9UGB_V6A8g": {
+      "title": "SÜDKOREA IST AM ENDE",
+      "words": 1737,
+      "chars": 11783
+    },
+    "gI-A5rikt2U": {
+      "title": "Wir müssen über Weed reden!",
+      "words": 1492,
+      "chars": 10112
+    },
+    "va8KKXke27I": {
+      "title": "Was ist das Letzte, das jemals passieren wird?",
+      "words": 1312,
+      "chars": 8556
+    },
+    "FYh4dWI-bqQ": {
+      "title": "Ist die Zukunft schon Vergangenheit? – Das Zeit-Paradox",
+      "words": 1390,
+      "chars": 9061
+    },
+    "Q4J5bZayjJs": {
+      "title": "Fieber fühlt sich schrecklich an, ist aber eigentlich fantastisch!",
+      "words": 1363,
+      "chars": 9163
+    },
+    "4bQ_MwQfGd0": {
+      "title": "Wir sind auf die älteste Lüge im Internet reingefallen!",
+      "words": 1414,
+      "chars": 9153
+    },
+    "wxIRpmzzhVU": {
+      "title": "Wie sind die Dinosaurier wirklich gestorben?",
+      "words": 1395,
+      "chars": 9452
+    },
+    "86MUyplj7ZE": {
+      "title": "Ist das Universum unendlich?",
+      "words": 1497,
+      "chars": 9646
+    },
+    "lHlxx9gS7Ek": {
+      "title": "KI - Die letzte Erfindung der Menschheit?",
+      "words": 1933,
+      "chars": 13368
+    },
+    "8vhV8ccSh7A": {
+      "title": "Vergiss alles, was du über Sport weißt!",
+      "words": 1532,
+      "chars": 10270
+    },
+    "CNm8vsqY9nI": {
+      "title": "Der Grund, warum Aliens doch existieren könnten!",
+      "words": 1384,
+      "chars": 9505
+    },
+    "C7YSy-Mr-d8": {
+      "title": "Hast du einen freien Willen?",
+      "words": 1360,
+      "chars": 9114
+    },
+    "AtKIbu3dj1A": {
+      "title": "So gewinnst du einen intergalaktischen Krieg!",
+      "words": 1537,
+      "chars": 10745
+    },
+    "_bWjmkmxS3M": {
+      "title": "Smoking is great!",
+      "words": 1341,
+      "chars": 8916
+    },
+    "mxtSd6WBdaw": {
+      "title": "Genug vom Doomscrolling?",
+      "words": 1692,
+      "chars": 11001
+    },
+    "yoKBIniVz1k": {
+      "title": "Was passiert NACH einem Atomkrieg?",
+      "words": 1375,
+      "chars": 9260
+    },
+    "jLKCQIgphq0": {
+      "title": "Du bist der Mittelpunkt des Universums!",
+      "words": 1527,
+      "chars": 9298
+    },
+    "RM84VMW-_3Q": {
+      "title": "Wie endet das Universum?",
+      "words": 1342,
+      "chars": 8934
+    },
+    "na_8ZYN454g": {
+      "title": "So startet der Atomkrieg - Minute für Minute erklärt",
+      "words": 1284,
+      "chars": 8966
+    },
+    "ovpPjEV86Kk": {
+      "title": "Deine Tattoos sind IN deinem Immunsystem!",
+      "words": 1040,
+      "chars": 7018
+    },
+    "4RORE0MpCcc": {
+      "title": "Das Internet ist schlimmer als je zuvor - was nun?",
+      "words": 1447,
+      "chars": 9805
+    },
+    "8wQkM-znhjY": {
+      "title": "4,5 Milliarden Jahre in einer Stunde",
+      "words": 1528,
+      "chars": 10029
+    },
+    "boowUg32zes": {
+      "title": "Hier ist der Beweis: Du bist tot!",
+      "words": 1394,
+      "chars": 9021
+    },
+    "CFcmJu1puLs": {
+      "title": "Warum Krebs so schwer zu besiegen ist",
+      "words": 1457,
+      "chars": 10185
+    },
+    "O6DMcdMohAw": {
+      "title": "2 Kapitel aus unserem Buch - Hörprobe",
+      "words": 3258,
+      "chars": 21295
+    },
+    "AYoe70bMdAo": {
+      "title": "Stirbt Deutschland aus?",
+      "words": 1843,
+      "chars": 12830
+    },
+    "EzXKlg0EmN8": {
+      "title": "Kann man ein schwarzes Loch zerstören?",
+      "words": 1531,
+      "chars": 10411
+    },
+    "Nnu0QUnETxI": {
+      "title": "Leben, so alt wie das Universum selbst",
+      "words": 1538,
+      "chars": 10188
+    },
+    "M6Tat_YeZbc": {
+      "title": "Die gefährlichste Waffe ist keine Atomwaffe",
+      "words": 1398,
+      "chars": 9794
+    },
+    "LeX1ALuxcwI": {
+      "title": "Das schwarze Loch, das Galaxien killt",
+      "words": 1378,
+      "chars": 9219
+    },
+    "VpWkcFsZ2Zs": {
+      "title": "Dein Körper bekämpft täglich Krebs!",
+      "words": 1344,
+      "chars": 9069
+    },
+    "sXcj5svVWF8": {
+      "title": "Die komplexeste Sprache der Welt",
+      "words": 1250,
+      "chars": 8520
+    },
+    "hYfYO2mEUnk": {
+      "title": "So produziert man ein Kurzgesagt-Video (in 2000 Stunden)",
+      "words": 1376,
+      "chars": 8983
+    },
+    "_E_9gx4Ts6o": {
+      "title": "Aliens könnten bereits auf dem Weg zu uns sein!",
+      "words": 1507,
+      "chars": 10310
+    },
+    "PziYusMyo-M": {
+      "title": "Das passiert wirklich, wenn du krank wirst!",
+      "words": 1461,
+      "chars": 9923
+    },
+    "-LgHUAUragk": {
+      "title": "Kannst DU den Klimawandel stoppen?",
+      "words": 2321,
+      "chars": 16262
+    },
+    "CKc1MRS2XNc": {
+      "title": "Das Größte, das jemals im Universum existierte: Quasi-Sterne",
+      "words": 1367,
+      "chars": 9160
+    },
+    "cviuWqEIfAM": {
+      "title": "Ist es zu spät, den Klimawandel zu stoppen? Tja, es ist kompliziert.",
+      "words": 1210,
+      "chars": 8655
+    },
+    "IMjbueZU98o": {
+      "title": "Warum Atomkraft Leben rettet!",
+      "words": 1176,
+      "chars": 8485
+    },
+    "zbup1WK3qS0": {
+      "title": "Wer ist schuld am Klimawandel? - Wer muss jetzt handeln?",
+      "words": 1438,
+      "chars": 9414
+    },
+    "xK-FEU4VowY": {
+      "title": "Warum wir funk verlassen haben!",
+      "words": 630,
+      "chars": 3970
+    },
+    "Tv708p4gq5g": {
+      "title": "So terraformen wir Mars - MIT LASERN!",
+      "words": 1507,
+      "chars": 10062
+    },
+    "L3GZo3UNt3A": {
+      "title": "Der Horror der Sklaventreiber-Ameise",
+      "words": 1365,
+      "chars": 9538
+    },
+    "VDoYGCE-3P4": {
+      "title": "Die größte Explosion im Universum - Supernova",
+      "words": 1473,
+      "chars": 10242
+    },
+    "awwCj4NnGdk": {
+      "title": "Warum schiessen wir Atommüll nicht einfach ins Weltall?",
+      "words": 1357,
+      "chars": 9220
+    },
+    "yzzkb3YayGo": {
+      "title": "Was passiert, wenn ein Supervulkan ausbricht?",
+      "words": 1601,
+      "chars": 10836
+    },
+    "ZYiNS1WW3pk": {
+      "title": "Der extremste Ort im Universum",
+      "words": 1535,
+      "chars": 10086
+    },
+    "HYuqC13LZ1Q": {
+      "title": "Warum du nicht genug Freunde hast!",
+      "words": 2356,
+      "chars": 15237
+    },
+    "i9CXV2pzwzQ": {
+      "title": "Steht unsere Zivilisation vor dem Zusammenbruch?",
+      "words": 1494,
+      "chars": 10964
+    },
+    "Z0X95l0bHa4": {
+      "title": "Das tödlichste Virus der Welt",
+      "words": 1633,
+      "chars": 10955
+    },
+    "3ICfs-XMp0s": {
+      "title": "Der letzte Mensch - Ein Blick in unsere ferne Zukunft",
+      "words": 1640,
+      "chars": 11102
+    },
+    "OSk0AUT4_8o": {
+      "title": "So krempelst du dein Leben um!",
+      "words": 1605,
+      "chars": 10441
+    },
+    "0unvBW91wY0": {
+      "title": "Du bist nicht da, wo du denkst!",
+      "words": 1360,
+      "chars": 8502
+    },
+    "cNSqxm22SOw": {
+      "title": "Warum diese Amöbe menschliches Gehirn liebt",
+      "words": 1330,
+      "chars": 9095
+    },
+    "FvjbhiILmPk": {
+      "title": "Können wir den Klimawandel noch stoppen?",
+      "words": 2260,
+      "chars": 15505
+    },
+    "WhbGobY3hUg": {
+      "title": "Gab es Aliens in unserer Vergangenheit?",
+      "words": 1624,
+      "chars": 11241
+    },
+    "XBQEvKPytxw": {
+      "title": "Was passiert, wenn der Mond in die Erde kracht?",
+      "words": 1668,
+      "chars": 10868
+    },
+    "_aWSE2TqRn0": {
+      "title": "…und wir werden es wieder tun!",
+      "words": 1427,
+      "chars": 9811
+    },
+    "IZ7DQaribZg": {
+      "title": "Warum wir nicht nach Aliens suchen sollten",
+      "words": 1495,
+      "chars": 10066
+    },
+    "YW3rHvMh5AE": {
+      "title": "Wie sahen Dinosaurier WIRKLICH aus?",
+      "words": 1557,
+      "chars": 10436
+    },
+    "8eeYdcCql24": {
+      "title": "Ist Fleisch WIRKLICH schlecht fürs Klima?",
+      "words": 1578,
+      "chars": 10932
+    },
+    "oRgN9I8vp4k": {
+      "title": "Das größte schwarze Loch des Universums - Ein Größenvergleich",
+      "words": 1588,
+      "chars": 10605
+    },
+    "P6v4rbgeAiY": {
+      "title": "Gibt es Orte, die wir nie erreichen können?",
+      "words": 1447,
+      "chars": 9704
+    },
+    "cMhE5BfmFkM": {
+      "title": "Diese Zellen machen dich immun gegen ALLES",
+      "words": 1413,
+      "chars": 9634
+    },
+    "P3xKpMa5Bos": {
+      "title": "Der Tag, an dem die Dinosaurier starben - Minute für Minute erklärt",
+      "words": 1370,
+      "chars": 9106
+    },
+    "nek0lyV8D9o": {
+      "title": "Das Immunsystem erklärt",
+      "words": 1387,
+      "chars": 9349
+    },
+    "hHvIrQKy90w": {
+      "title": "Kannst du dein Bewusstsein auf einem Computer speichern und ewig leben?",
+      "words": 1825,
+      "chars": 12693
+    },
+    "T87ZtZAoiiQ": {
+      "title": "Wie funktioniert das Universum? - Die Stringtheorie erklärt",
+      "words": 1110,
+      "chars": 7588
+    },
+    "x0WbGMS3cHE": {
+      "title": "Dieses Virus sollte eigentlich nicht existieren (tut es aber)",
+      "words": 1384,
+      "chars": 9311
+    },
+    "QlAeYmWSNSY": {
+      "title": "Der größte Stern des Universums - Ein Größenvergleich",
+      "words": 1478,
+      "chars": 9741
+    },
+    "1xoLGmPEQuE": {
+      "title": "Lasst uns (mal eben) Venus terraformen!",
+      "words": 1712,
+      "chars": 11643
+    },
+    "VOYuMywDnXI": {
+      "title": "Können schwarze Löcher das Universum löschen? - Das Informationsparadoxon",
+      "words": 1479,
+      "chars": 9955
+    },
+    "CnoQuq633yU": {
+      "title": "Was passiert, wenn wir eine Atombombe auf den Mond schießen?",
+      "words": 1070,
+      "chars": 7204
+    },
+    "0sOkKmdyhq4": {
+      "title": "Wie das Jetzt zur Geschichte wurde - Das Zeitalter der Menschen",
+      "words": 1263,
+      "chars": 8668
+    },
+    "w9J6D4r30HY": {
+      "title": "Was machst du mit deinem Leben? Eine Perspektive",
+      "words": 1321,
+      "chars": 8118
+    },
+    "vcsmWBqa2LQ": {
+      "title": "Brauchen wir Atomenergie, um den Klimawandel zu stoppen?",
+      "words": 1364,
+      "chars": 9770
+    },
+    "8HtnfA0nErw": {
+      "title": "Was ist Intelligenz?",
+      "words": 1283,
+      "chars": 9087
+    },
+    "3IpcM5gqRM4": {
+      "title": "Schwarze Löcher Erklärt - Von der Geburt bis zum Tod",
+      "words": 1646,
+      "chars": 10967
+    },
+    "9sf-3Q8EcAE": {
+      "title": "Was, wenn die Erde plötzlich zu Gold wird? - Die Gold-Apokalypse",
+      "words": 1171,
+      "chars": 7497
+    },
+    "KCTvl8KuCR0": {
+      "title": "Wie sehen Aliens WIRKLICH aus? 👽  - Die Kardaschow-Skala",
+      "words": 1537,
+      "chars": 10392
+    },
+    "ukj00RbvZaQ": {
+      "title": "Warum lebst du? - Energie & Entropie",
+      "words": 1352,
+      "chars": 9121
+    },
+    "dEesh2R0M94": {
+      "title": "Lasst uns das Sonnensystem verschieben! - Der Stellarantrieb",
+      "words": 1118,
+      "chars": 7722
+    },
+    "VmHAuMGJwe4": {
+      "title": "Das Ei - Eine Kurzgeschichte",
+      "words": 872,
+      "chars": 5223
+    },
+    "ME6xH8jrNK4": {
+      "title": "Eine Mars-Basis ist eine dumme Idee. Lasst uns eine bauen!",
+      "words": 1200,
+      "chars": 7921
+    },
+    "bRu7i011Fxo": {
+      "title": "Neutronensterne: Fast so krass wie schwarze Löcher",
+      "words": 988,
+      "chars": 6762
+    },
+    "Vl4FotUbbBA": {
+      "title": "Wie entstand unser Bewusstsein? (feat. Simplicissimus)",
+      "words": 1168,
+      "chars": 7724
+    },
+    "mztvStKHQRQ": {
+      "title": "Maschinen mit Bewusstsein – Sollten Roboter Rechte haben?",
+      "words": 869,
+      "chars": 6009
+    },
+    "j-fXZNgE67c": {
+      "title": "Was passiert wenn die Erde aus dem Sonnensystem fliegt? - Einzelgänger-Erde",
+      "words": 1288,
+      "chars": 8445
+    },
+    "9WbK7CafeZY": {
+      "title": "Die ultimative Megakonstruktion - Die Dyson-Sphäre",
+      "words": 1073,
+      "chars": 7318
+    },
+    "lj4IC70kDIU": {
+      "title": "Energie der Zukunft oder kompletter Reinfall? - Fusionsenergie erklärt",
+      "words": 781,
+      "chars": 5300
+    },
+    "erDUXM8mCS8": {
+      "title": "Bakterien so groß wie Blauwale - Leben & Größe 3",
+      "words": 1214,
+      "chars": 8231
+    },
+    "-1FvAEaE0fc": {
+      "title": "Das gefährlichste Zeug im Universum - Seltsame Sterne erklärt",
+      "words": 1040,
+      "chars": 7010
+    },
+    "HGKn3iUA5M0": {
+      "title": "Ein Mittel gegen Unzufriedenheit",
+      "words": 1363,
+      "chars": 9169
+    },
+    "CRgJHTmBGOE": {
+      "title": "Was passiert, wenn eine Atombombe deine Stadt trifft?",
+      "words": 1259,
+      "chars": 8505
+    },
+    "UOdCyVADESI": {
+      "title": "Aliens unter dem Eis - Leben auf Einzelgängerplaneten",
+      "words": 977,
+      "chars": 6768
+    },
+    "eEgOXuJsaT0": {
+      "title": "Meisterarchitekt der Insektenwelt - Die Weberameise",
+      "words": 1037,
+      "chars": 7123
+    },
+    "YifXOFSbGO0": {
+      "title": "Wieso die Erde ein Gefängnis ist und wie wir da rauskommen",
+      "words": 897,
+      "chars": 5852
+    },
+    "03EcKq3EYbs": {
+      "title": "Kleine Bomben im Blut – Das Komplement-System",
+      "words": 1142,
+      "chars": 7415
+    },
+    "VcVsV9Yn4P4": {
+      "title": "Geoengineering: Der Klima-Cheat?",
+      "words": 1174,
+      "chars": 8356
+    },
+    "q6YkYx7-Y_k": {
+      "title": "Die Wahrheit über Fleisch - Wie ungesund ist es wirklich?",
+      "words": 1285,
+      "chars": 8660
+    },
+    "NU31mw90re0": {
+      "title": "Das Coronavirus erklärt & Was du jetzt tun solltest",
+      "words": 1073,
+      "chars": 7276
+    },
+    "Gih8R-f_KMo": {
+      "title": "Unermesslicher Reichtum - Bergbau im All",
+      "words": 1091,
+      "chars": 7378
+    },
+    "2K4h6O3uTiM": {
+      "title": "Die Ameisen Megakolonie und der größte Krieg der Erde",
+      "words": 1164,
+      "chars": 8058
+    },
+    "6DPVWbJAWpY": {
+      "title": "Wie Sonnenstürme unsere Zivilisation zerstören könnten",
+      "words": 1244,
+      "chars": 8628
+    },
+    "r0Af_AT31tc": {
+      "title": "Was bist du?",
+      "words": 860,
+      "chars": 5561
+    },
+    "7xm21hsJ65c": {
+      "title": "Der Weltkrieg der Ameisen - Die Wanderameise",
+      "words": 901,
+      "chars": 6409
+    },
+    "YdLRHbP6DT8": {
+      "title": "Wurmlöcher erklärt - Wir biegen uns das Universum zurecht!",
+      "words": 1186,
+      "chars": 8076
+    },
+    "FNFd559dEAE": {
+      "title": "Schaurige Parasiten – Vernachlässigte Krankheiten",
+      "words": 781,
+      "chars": 5350
+    },
+    "EpkzT-AeVZU": {
+      "title": "Warum Schönheit uns glücklich macht!",
+      "words": 1036,
+      "chars": 7331
+    },
+    "aMaghFZWq2A": {
+      "title": "Warum kriegen Blauwale keinen Krebs? - Petos Paradoxon",
+      "words": 1022,
+      "chars": 6900
+    },
+    "4YsaZQzT7Z8": {
+      "title": "Die Antibiotika Apokalypse erklärt",
+      "words": 929,
+      "chars": 6629
+    },
+    "5IpAsztfBBA": {
+      "title": "Die Wahrheit über Milch - So ungesund ist sie wirklich",
+      "words": 1160,
+      "chars": 8104
+    },
+    "SfbFbIL1oAA": {
+      "title": "Das Ende der Raumfahrt – Eine tödliche Falle für die Menschheit",
+      "words": 1091,
+      "chars": 7559
+    },
+    "SN2iidFin2Q": {
+      "title": "Was ist etwas?",
+      "words": 762,
+      "chars": 5186
+    },
+    "J5LodnKnLYU": {
+      "title": "Ein egoistischer Grund, die Welt zu verbessern – Egoistischer Altruismus",
+      "words": 980,
+      "chars": 6658
+    },
+    "RLsMTN9_qM4": {
+      "title": "So baut man eine Bombe aus einem Schwarzen Loch!",
+      "words": 1178,
+      "chars": 7843
+    },
+    "pb4YoMjcYM4": {
+      "title": "Wie dumme Einzelteile zusammen intelligent werden - Emergenz",
+      "words": 968,
+      "chars": 6700
+    },
+    "aoMOSa9kXPw": {
+      "title": "1000 km Seil ins All - Skyhook & Space Tether",
+      "words": 1096,
+      "chars": 7287
+    },
+    "SorIEgajNd0": {
+      "title": "Was passiert, wenn man eine Atombombe im Marianengraben zündet?",
+      "words": 794,
+      "chars": 5245
+    },
+    "_WP9Piwsexo": {
+      "title": "Wie Bakterien unseren Körper beherrschen – Das Mikrobiom",
+      "words": 1031,
+      "chars": 7139
+    },
+    "4E0dwFS72gk": {
+      "title": "Impfen & Nebenwirkungen – Wie groß ist das Risiko?",
+      "words": 1373,
+      "chars": 9492
+    },
+    "q6fgbYWsMgw": {
+      "title": "Was verbirgt sich am tiefsten Punkt des Ozeans?",
+      "words": 1322,
+      "chars": 8831
+    },
+    "t_3AvnL10w4": {
+      "title": "Mondbasis schon heute! - Weltraumkolonisation (Teil 1)",
+      "words": 1310,
+      "chars": 9003
+    },
+    "c5aLYMBnFZc": {
+      "title": "Ist die EU demokratisch? Was ist deine Stimme wert?",
+      "words": 1197,
+      "chars": 8118
+    },
+    "hcmSh9cerv8": {
+      "title": "Wie gefährlich ist Elektrosmog? (feat. maiLab)",
+      "words": 1185,
+      "chars": 8446
+    },
+    "YkBX8KyBAcs": {
+      "title": "Können wir das Altern noch zu deinen Lebzeiten stoppen?",
+      "words": 938,
+      "chars": 6523
+    },
+    "0RRU0sdgoQI": {
+      "title": "Das letzte Licht vor der ewigen Dunkelheit – Weiße Zwerge & Schwarze Zwerge",
+      "words": 936,
+      "chars": 6038
+    },
+    "mhmpeIyG0uM": {
+      "title": "Plastikmüll - So versinkt die Welt im Plastik",
+      "words": 1158,
+      "chars": 7824
+    },
+    "NBeeRVkTeJg": {
+      "title": "Was passiert, wenn man alle Atombomben auf einmal zündet?",
+      "words": 1093,
+      "chars": 7264
+    },
+    "j_Nzlb33Y4o": {
+      "title": "Ewige Jugend – sollten wir das Altern stoppen?",
+      "words": 1050,
+      "chars": 6752
+    },
+    "w7daiJHfjoY": {
+      "title": "Geld fürs Nichtstun? - Bedingungsloses Grundeinkommen",
+      "words": 1375,
+      "chars": 9015
+    },
+    "y6f3dwxexZM": {
+      "title": "Fleisch – Das leckerste Übel der Welt",
+      "words": 1131,
+      "chars": 7446
+    },
+    "ZAz1GutJGbg": {
+      "title": "CRISPR - Gentechnik wird alles für immer verändern",
+      "words": 2279,
+      "chars": 15847
+    },
+    "DwqwRYe6fKA": {
+      "title": "Einsamkeit",
+      "words": 1448,
+      "chars": 9715
+    },
+    "0pQSWRdtrf8": {
+      "title": "Der tödlichste Killer der Welt – Der Bakteriophage",
+      "words": 927,
+      "chars": 6226
+    },
+    "_hcvUfc2Lww": {
+      "title": "Do We Still Need Public Broadcasting Networks?",
+      "words": 1036,
+      "chars": 7140
+    },
+    "rt9_zRTG1cA": {
+      "title": "Eine neue Menschheitsgeschichte – Die Ära der Menschen",
+      "words": 987,
+      "chars": 6502
+    },
+    "KV1NVltMZjQ": {
+      "title": "Ist Bio wirklich besser?",
+      "words": 985,
+      "chars": 7056
+    },
+    "-9xNrBQpFt4": {
+      "title": "Optimistischer Nihilismus",
+      "words": 949,
+      "chars": 5983
+    },
+    "R9_5GY1cNjQ": {
+      "title": "Warum Leben auf dem Mars unser Untergang wäre – Der große Filter",
+      "words": 1172,
+      "chars": 7784
+    },
+    "mOJSuBTNkY8": {
+      "title": "Zeit: Die Vergangenheit & Zukunft von allem",
+      "words": 1055,
+      "chars": 6801
+    },
+    "ap6VS5anhCc": {
+      "title": "Der letzte Stern im Universum - Rote Zwerge erklärt",
+      "words": 874,
+      "chars": 5703
+    },
+    "AR3Ynx0s8gE": {
+      "title": "Der Krieg gegen Drogen ist gescheitert!",
+      "words": 970,
+      "chars": 7009
+    },
+    "E1K-4Z4tVKo": {
+      "title": "Wir sprengen einen Elefanten (für die Wissenschaft) - Leben & Größe 2",
+      "words": 1057,
+      "chars": 6781
+    },
+    "hHzA5S_usnM": {
+      "title": "Der gründlichste Weg unser Universum zu zerstören – Das Falsche Vakuum",
+      "words": 853,
+      "chars": 5645
+    },
+    "1Q76na-m8s0": {
+      "title": "Überbevölkerung – Die Bevölkerungsexplosion erklärt",
+      "words": 893,
+      "chars": 6154
+    },
+    "V3OrmIuN_QQ": {
+      "title": "3 Argumente gegen Atomkraft (3/3)",
+      "words": 577,
+      "chars": 3956
+    },
+    "9PugxoigU8U": {
+      "title": "3 Argumente für Atomkraft (2/3)",
+      "words": 569,
+      "chars": 3899
+    },
+    "CtD7xLLNODg": {
+      "title": "Atomkraft erklärt: Wie funktioniert sie? (1/3)",
+      "words": 792,
+      "chars": 5318
+    },
+    "TGm_QTD5yKM": {
+      "title": "3 Gründe, warum Cannabis verboten bleiben sollte",
+      "words": 1337,
+      "chars": 9121
+    },
+    "8o2yaqECGc0": {
+      "title": "Ist es Zeit die EU aufzulösen?",
+      "words": 1012,
+      "chars": 7087
+    },
+    "m62QcCAkm88": {
+      "title": "Was passiert, wenn man einen Elefanten von einem Wolkenkratzer wirft? - Leben & Größe 1",
+      "words": 975,
+      "chars": 6336
+    },
+    "SigkkLej2Bk": {
+      "title": "Was passiert, wenn ein winziges schwarzes Loch neben dir auftaucht?",
+      "words": 534,
+      "chars": 3514
+    },
+    "vuoIs5_J0rw": {
+      "title": "Sucht",
+      "words": 799,
+      "chars": 5245
+    },
+    "q8vE0LJ5yF8": {
+      "title": "Tod aus dem All - Gammablitze erklärt",
+      "words": 867,
+      "chars": 6015
+    },
+    "_UG_AtiyEmQ": {
+      "title": "Das Fermi Paradoxon II – Ein paar Ideen – Wo sind die ganzen Aliens? (2/2)",
+      "words": 934,
+      "chars": 6243
+    },
+    "tq7i9OzSNSQ": {
+      "title": "Homöopathie – Sanfte Alternative oder dreister Humbug?",
+      "words": 1056,
+      "chars": 7335
+    },
+    "DE11uy4spho": {
+      "title": "Gentechnik in unserem Essen - Grund zur Panik?",
+      "words": 1038,
+      "chars": 7473
+    },
+    "b9TiWLDAPqk": {
+      "title": "Was ist Leben? Ist der Tod real?",
+      "words": 740,
+      "chars": 4767
+    },
+    "M2PYkZ2Y_Ls": {
+      "title": "Was kam vor der Geschichte? Der Ursprung der Menschheit",
+      "words": 1170,
+      "chars": 8056
+    },
+    "wWSJYr1Lr0E": {
+      "title": "Wo sind all die Aliens? Das Fermi Paradoxon (1/2)",
+      "words": 815,
+      "chars": 5349
+    }
+  }
+}

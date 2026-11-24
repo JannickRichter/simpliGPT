@@ -1,0 +1,604 @@
+{
+  "processed_ids": {
+    "qRU87Ir_Q3I": {
+      "title": "How problematic is Tim Vollert really?",
+      "words": 13050,
+      "chars": 82946
+    },
+    "cIrEgnekbvY": {
+      "title": "TITLE",
+      "words": 14370,
+      "chars": 93538
+    },
+    "U3IK_kCfh30": {
+      "title": "Why Homo Sapiens Are the Last Ones Left | Human Evolution Documentary (3/3)",
+      "words": 5268,
+      "chars": 34271
+    },
+    "SrBIyjN78-0": {
+      "title": "Why we should never create this life | Science News",
+      "words": 4692,
+      "chars": 31414
+    },
+    "IRMwFwDXoiw": {
+      "title": "Neanderthals were more advanced than we thought | Human Evolution Documentary (2/3)",
+      "words": 5393,
+      "chars": 34787
+    },
+    "rj2AAkXoz7Y": {
+      "title": "Alien News: Atmosphere discovered on Earth-like planet for the first time! | Science News",
+      "words": 4949,
+      "chars": 32349
+    },
+    "YAiS07gfMQ4": {
+      "title": "The Mystery of Denisova Cave | Human Origins Documentary (1/3)",
+      "words": 4331,
+      "chars": 28012
+    },
+    "ahwDrY4E_60": {
+      "title": "Did ChatGPT Just Steal a Millennium-Old Solution? | Science News",
+      "words": 3532,
+      "chars": 23518
+    },
+    "vMcQ2Gm-vQs": {
+      "title": "The ESA flew me to the moon (almost)!",
+      "words": 3797,
+      "chars": 23599
+    },
+    "vSLmWdS7i0o": {
+      "title": "Strongest El Niño in 1000 Years? What's Coming Our Way? | Science News",
+      "words": 4189,
+      "chars": 27206
+    },
+    "qAmH-Nnx1i0": {
+      "title": "We tried to film the solar eclipse and THIS happened",
+      "words": 3377,
+      "chars": 21217
+    },
+    "4L-yei8vamE": {
+      "title": "Super El Niño Is Coming - How Bad Will It Really Get? | Science News",
+      "words": 3549,
+      "chars": 23635
+    },
+    "ha-kQlC8g-M": {
+      "title": "The Relativity of Time That No One Talks About",
+      "words": 3238,
+      "chars": 20746
+    },
+    "0MNOVme51YE": {
+      "title": "ALARM on the ISS: NASA Preparing for Evacuation | Science News",
+      "words": 3492,
+      "chars": 22726
+    },
+    "mGqq7T5Hb74": {
+      "title": "How NASA plans to colonize the Moon | Science News",
+      "words": 2955,
+      "chars": 19708
+    },
+    "HHno5r08ICg": {
+      "title": "Even NASA missed this! | Science News",
+      "words": 3461,
+      "chars": 23497
+    },
+    "Crc9SMK-6Yg": {
+      "title": "NASA's new space telescope blows everything else out of the water! | Science News",
+      "words": 2463,
+      "chars": 16480
+    },
+    "0BfTPbzkPfM": {
+      "title": "Godzilla El Niño on the way? What that means | Science News",
+      "words": 2995,
+      "chars": 20511
+    },
+    "aSMnbxWYsdI": {
+      "title": "NASA cancels lunar space station – What now? | Science News",
+      "words": 2573,
+      "chars": 17044
+    },
+    "4raMZzINHJA": {
+      "title": "Comet breaks apart! Hubble photographs incredible things | Science News",
+      "words": 3531,
+      "chars": 23512
+    },
+    "yCfvJlVHVK4": {
+      "title": "800 anomalies discovered in space! Hubble AI goes haywire | Science News",
+      "words": 2564,
+      "chars": 17013
+    },
+    "-LCEfDDmmSQ": {
+      "title": "You missed these amazing science news stories from January!",
+      "words": 2786,
+      "chars": 18392
+    },
+    "2HjfeYQw8vY": {
+      "title": "Das neue HP EliteBook macht alles anders",
+      "words": 1240,
+      "chars": 7834
+    },
+    "mpmYpGIJnbo": {
+      "title": "You missed these crazy science news stories in 2025.",
+      "words": 3162,
+      "chars": 21621
+    },
+    "Cw9RlIwmfGQ": {
+      "title": "Dark Matter: How AI is solving physics's greatest mystery at CERN | Documentary",
+      "words": 4397,
+      "chars": 27913
+    },
+    "x-g7PBJpYus": {
+      "title": "Beyond Science: The Universe's Most Mysterious Questions | Niklas Kolorz LIVE Full Show",
+      "words": 14329,
+      "chars": 91906
+    },
+    "VkMUp9YevEg": {
+      "title": "Fighting cancer with AI?",
+      "words": 2252,
+      "chars": 13790
+    },
+    "GSEIyWpwvHg": {
+      "title": "Die Entdeckung des Urknalls | Weltraum Doku",
+      "words": 4188,
+      "chars": 27351
+    },
+    "2ilj3-L7ysk": {
+      "title": "Was passiert wenn Künstliche Intelligenz uns regiert?",
+      "words": 3435,
+      "chars": 22019
+    },
+    "3jXZIUg6Xss": {
+      "title": "SETI - Den Außerirdischen auf der Spur | Weltraum Doku Aliens",
+      "words": 12326,
+      "chars": 78916
+    },
+    "VzdCLNxZJBc": {
+      "title": "Die (überraschend einfache) Lösung des Fermi-Paradoxon",
+      "words": 2115,
+      "chars": 13962
+    },
+    "cC3P4bx9sVc": {
+      "title": "Refueling instead of charging: 400km with the BMW hydrogen car through Germany",
+      "words": 3735,
+      "chars": 22947
+    },
+    "kfnNW6wsHDM": {
+      "title": "How CERN is investigating the greatest mystery of the universe (antimatter)",
+      "words": 1848,
+      "chars": 12352
+    },
+    "CSYDaIyD0eM": {
+      "title": "Exoplaneten im RANKING | Weltall Exoplaneten Tier Liste Teil 2",
+      "words": 5648,
+      "chars": 33150
+    },
+    "oEXGXRKkWBk": {
+      "title": "The BEST and WORST Exoplanets Ranking | Space Tier List",
+      "words": 5120,
+      "chars": 31002
+    },
+    "RYAiH595Aio": {
+      "title": "Why two NASA astronauts are stuck on the ISS",
+      "words": 1542,
+      "chars": 9273
+    },
+    "E13r11-3d7s": {
+      "title": "The fight against poachers in Zimbabwe (Poaching Documentary Part 2)",
+      "words": 1744,
+      "chars": 10031
+    },
+    "2Qtt0rQzNho": {
+      "title": "I joined an Anti-Poaching-Unit in Zimbabwe",
+      "words": 2032,
+      "chars": 12675
+    },
+    "BKqhPf-RwV8": {
+      "title": "Should we leave space to China? (Space stations)",
+      "words": 2465,
+      "chars": 15673
+    },
+    "Ht-QIicTgG4": {
+      "title": "A day as a wind turbine electrician",
+      "words": 1907,
+      "chars": 11105
+    },
+    "-gLRiluMCJE": {
+      "title": "Ein Tag als U-Bahn Mechaniker",
+      "words": 2233,
+      "chars": 12959
+    },
+    "UJQOaq4TzD0": {
+      "title": "I spent a day working in the forest as a forester.",
+      "words": 2561,
+      "chars": 15257
+    },
+    "LcgAMXdcUD0": {
+      "title": "Robot Revolution: Salvation or the End of Humanity?",
+      "words": 2539,
+      "chars": 16917
+    },
+    "PYkFOIAgKJA": {
+      "title": "Earth's core rotates ever more slowly | MBU News",
+      "words": 1595,
+      "chars": 10133
+    },
+    "zCnrY27KXqc": {
+      "title": "The Secret of Dark Energy",
+      "words": 2003,
+      "chars": 12730
+    },
+    "QwdokK4y-C4": {
+      "title": "Cicada Invasion in the USA: What's Behind It?",
+      "words": 2330,
+      "chars": 13989
+    },
+    "fESPCskMV-0": {
+      "title": "The incredible discovery of dark matter",
+      "words": 2674,
+      "chars": 17196
+    },
+    "4H511ScJ8RE": {
+      "title": "The cruel history of human experimentation",
+      "words": 2260,
+      "chars": 14417
+    },
+    "J8rHc7JYlQw": {
+      "title": "Katastrophen im All - Tragödien und Fehltritte der Raumfahrt (Weltraum Doku)",
+      "words": 14031,
+      "chars": 88963
+    },
+    "OTR9Vza8Vdg": {
+      "title": "Why this man almost drowned in space",
+      "words": 2473,
+      "chars": 15476
+    },
+    "ohMQwt1MLNs": {
+      "title": "Die tragische Geschichte der Chemikerin Clara Immerwahr | mit Leonie Schöler",
+      "words": 2867,
+      "chars": 18606
+    },
+    "wgWILWohQ4E": {
+      "title": "The most gruesome day in the history of the Space Shuttle",
+      "words": 1854,
+      "chars": 11702
+    },
+    "zWite4Xyxro": {
+      "title": "Space Race 2026: Who owns the moon?",
+      "words": 2039,
+      "chars": 12744
+    },
+    "kmK7Wstu6jc": {
+      "title": "Why animals could soon be organ donors",
+      "words": 1146,
+      "chars": 7301
+    },
+    "zT5tu-HHHsg": {
+      "title": "This is what the magnetic field of our black hole looks like!",
+      "words": 1413,
+      "chars": 9206
+    },
+    "P7zksJiZGOs": {
+      "title": "Repair at an altitude of 400 km! Use on the Hubble Space Telescope",
+      "words": 2278,
+      "chars": 14502
+    },
+    "cqeIn0YPVyQ": {
+      "title": "Energy storage of the future: Is iron the new coal?",
+      "words": 2509,
+      "chars": 15765
+    },
+    "uB12mwF0WGQ": {
+      "title": "First Neuralink patient shows off his cyborg abilities 🤯",
+      "words": 2100,
+      "chars": 13194
+    },
+    "8hys1TnPAJI": {
+      "title": "How NASA lost the $200 million Mars Climate Orbiter",
+      "words": 1772,
+      "chars": 11372
+    },
+    "Ej8Ucs9JAwQ": {
+      "title": "Was euch fast niemand über den Starship-Testflug erzählt",
+      "words": 2013,
+      "chars": 12472
+    },
+    "EwhYuUcpcs4": {
+      "title": "This AI robot can talk, see, and act! 🤯",
+      "words": 2080,
+      "chars": 12089
+    },
+    "iIz0yk0KDWg": {
+      "title": "Astronomers discover brightest object in the universe",
+      "words": 914,
+      "chars": 5898
+    },
+    "JeHh4EiYEPY": {
+      "title": "2,000 Years of Science in 100 Minutes | Niklas Kolorz LIVE Full Show",
+      "words": 17798,
+      "chars": 107281
+    },
+    "Nxsqyzi9bfk": {
+      "title": "Is the Gulf Stream on the verge of collapse? Climate tipping points explained!",
+      "words": 2586,
+      "chars": 16923
+    },
+    "o6_gxEb0iVk": {
+      "title": "Einstein Explains: Relativity Theory in 10 Minutes",
+      "words": 1810,
+      "chars": 11187
+    },
+    "6njZsl_Vm20": {
+      "title": "Vulcan: Undiscovered Planet in the Solar System? | MBU Live",
+      "words": 1577,
+      "chars": 9659
+    },
+    "sfU-_rQ9uK0": {
+      "title": "Werden wir Krebs jemals besiegen?",
+      "words": 2373,
+      "chars": 15441
+    },
+    "FBYxm9ZX__I": {
+      "title": "Niklas Kolorz dismantles the Flat Earth Theory | MBU Live",
+      "words": 2183,
+      "chars": 12920
+    },
+    "mC5LIx1SJOI": {
+      "title": "Nuclear fusion: Infinite green electricity for everyone?",
+      "words": 2854,
+      "chars": 18580
+    },
+    "53BlvIC3qO0": {
+      "title": "Die größten Geheimnisse unseres Sonnensystems | Weltraum Doku",
+      "words": 17696,
+      "chars": 112472
+    },
+    "tjlAFU7O3Zo": {
+      "title": "Crash: How Elon Musk lost $200 billion (Part 2/2)",
+      "words": 3469,
+      "chars": 21493
+    },
+    "1Sdp1FaUV4g": {
+      "title": "Rise: How Elon Musk became the richest person in the world (Part 1/2)",
+      "words": 2181,
+      "chars": 13304
+    },
+    "I3kN-g4T6g4": {
+      "title": "Germany is getting a spaceport in the North Sea!",
+      "words": 2354,
+      "chars": 15133
+    },
+    "WyIuIGxCSXw": {
+      "title": "How a single person accidentally destroyed the atmosphere",
+      "words": 2063,
+      "chars": 13012
+    },
+    "lRVU4vR1pPI": {
+      "title": "Explosion in space: The incredible story of Apollo 13",
+      "words": 2958,
+      "chars": 18325
+    },
+    "Cpt35CTpeoo": {
+      "title": "How 1,000 tardigrades conquered the moon",
+      "words": 2147,
+      "chars": 13922
+    },
+    "J4c6DG-GymY": {
+      "title": "El Niño erschafft stärksten Hurricane aus dem Nichts",
+      "words": 3390,
+      "chars": 21580
+    },
+    "KcWs7VKJrBY": {
+      "title": "Freezing and living forever: Does cryonics work?",
+      "words": 2671,
+      "chars": 17193
+    },
+    "5alHuPiOoEs": {
+      "title": "Journey into the Unknown: Where Are the Voyager Probes?",
+      "words": 2414,
+      "chars": 15473
+    },
+    "x2djfRuPpxE": {
+      "title": "\"Climate neutral\" - The biggest lie of the advertising industry",
+      "words": 3262,
+      "chars": 21564
+    },
+    "FP38TzccE9A": {
+      "title": "I did the double-slit experiment at home.",
+      "words": 2860,
+      "chars": 18181
+    },
+    "Izp2IM935Uk": {
+      "title": "Is Pluto a planet AFTER ALL?",
+      "words": 2433,
+      "chars": 14923
+    },
+    "ogUaN7w6QBQ": {
+      "title": "Interstellar travel and colonization of planets – is that possible?",
+      "words": 4385,
+      "chars": 28191
+    },
+    "aigBb5ptbsc": {
+      "title": "What happens when you cover the Sahara Desert with solar panels?",
+      "words": 3649,
+      "chars": 23598
+    },
+    "Qc0HSumasHI": {
+      "title": "Moon landing: Russia crashes, India celebrates success",
+      "words": 3163,
+      "chars": 20104
+    },
+    "QTgIXtYOs48": {
+      "title": "Neptune was not discovered, but predicted!",
+      "words": 1947,
+      "chars": 12258
+    },
+    "KuDCWjJb430": {
+      "title": "If Usain Bolt were a spaceship | Niklas Kolorz LIVE",
+      "words": 1456,
+      "chars": 8724
+    },
+    "JSk6AuII-Bg": {
+      "title": "Is the Internet really bad for the climate?",
+      "words": 3345,
+      "chars": 21052
+    },
+    "KCSCa78saKQ": {
+      "title": "How superconductor LK-99 fooled the world",
+      "words": 3057,
+      "chars": 19736
+    },
+    "8lHxrIZThpY": {
+      "title": "This climate myth is true",
+      "words": 3110,
+      "chars": 19703
+    },
+    "Bqmc9LhDPeE": {
+      "title": "Wie die Atombombe das Kernkraftwerk möglich gemacht hat",
+      "words": 3231,
+      "chars": 20989
+    },
+    "HUenROt7p5k": {
+      "title": "How Uranus makes everything different",
+      "words": 2125,
+      "chars": 13339
+    },
+    "iccPhkXeBjw": {
+      "title": "Gravitationswellen-Hintergrund entdeckt | MBU News",
+      "words": 2594,
+      "chars": 17566
+    },
+    "raTFbG93zXo": {
+      "title": "Is there life on Saturn's moons?",
+      "words": 1838,
+      "chars": 11302
+    },
+    "okSpNMcm-rc": {
+      "title": "How Jupiter saves our lives",
+      "words": 2053,
+      "chars": 12778
+    },
+    "x2M7nihprV0": {
+      "title": "What really awaits us in the deep sea",
+      "words": 2880,
+      "chars": 17968
+    },
+    "6EaBc2x7uN4": {
+      "title": "Neuralink startet Menschen-Experimente | MBU News",
+      "words": 2106,
+      "chars": 13835
+    },
+    "gOcwJuP6-eE": {
+      "title": "Why LSD may soon be available on prescription",
+      "words": 2199,
+      "chars": 14696
+    },
+    "BL8VXQhZNJU": {
+      "title": "Wird Wasserstoff uns retten?",
+      "words": 2714,
+      "chars": 17270
+    },
+    "z1DFjlxiM0g": {
+      "title": "Everything you need to know about SpaceX by Elon Musk",
+      "words": 4349,
+      "chars": 27102
+    },
+    "3UWzLWy6QfU": {
+      "title": "Mars-Besiedlung: Geld-Verschwendung oder Zukunft der Menschheit?",
+      "words": 1930,
+      "chars": 11637
+    },
+    "dWervNWOzyQ": {
+      "title": "AI learns to read minds | MBU News",
+      "words": 1481,
+      "chars": 9548
+    },
+    "2SlPAKiYYzY": {
+      "title": "Planet Venus: What went wrong?",
+      "words": 1837,
+      "chars": 11281
+    },
+    "MgVdW9x8xR4": {
+      "title": "How the TRAPPIST system changed everything",
+      "words": 2083,
+      "chars": 13084
+    },
+    "b3gCrKUeKdk": {
+      "title": "Elon Musk's Starship explodes during test flight | MBU News",
+      "words": 2301,
+      "chars": 14477
+    },
+    "SrKtOBo4SrM": {
+      "title": "Eternal life: Soon possible?",
+      "words": 2187,
+      "chars": 13939
+    },
+    "MEU_qLMBHug": {
+      "title": "Mercury: The most mysterious planet in our solar system",
+      "words": 2235,
+      "chars": 13559
+    },
+    "rL36-1Sz1Xs": {
+      "title": "This asteroid could hit us soon",
+      "words": 2238,
+      "chars": 14791
+    },
+    "noCK5URxyZU": {
+      "title": "Everything You Need to Know About the Willow Project",
+      "words": 2249,
+      "chars": 14269
+    },
+    "qqMa1RDc884": {
+      "title": "How dangerous is the sun really?",
+      "words": 2138,
+      "chars": 13176
+    },
+    "U6or_TzVec8": {
+      "title": "This experiment has forever changed how we think about pigeons",
+      "words": 2554,
+      "chars": 16109
+    },
+    "1dYoaOSCKLc": {
+      "title": "James Webb discovers \"universe destroyer\" galaxies",
+      "words": 2002,
+      "chars": 12685
+    },
+    "SPa-whzI1zo": {
+      "title": "Are we really living in a black hole?! | Niklas Kolorz",
+      "words": 2302,
+      "chars": 14686
+    },
+    "MaWstYIgbcE": {
+      "title": "Can we bring extinct animals back to life? | Niklas Kolorz",
+      "words": 2348,
+      "chars": 14873
+    },
+    "Eu4V2FpKikA": {
+      "title": "Are there aliens on Titan?",
+      "words": 2183,
+      "chars": 13267
+    },
+    "d7lwQJIU8NQ": {
+      "title": "What happens if you die in space? | Niklas Kolorz",
+      "words": 1837,
+      "chars": 11552
+    },
+    "1aVWlpB_BEo": {
+      "title": "Can we achieve the energy transition this way? Heat pumps put to the test | Niklas Kolorz",
+      "words": 3510,
+      "chars": 22055
+    },
+    "3SGYAeZsO_0": {
+      "title": "Why the 49-euro ticket isn't enough | Niklas Kolorz",
+      "words": 2499,
+      "chars": 15316
+    },
+    "rI6ADOL4r1c": {
+      "title": "So weit ist der Mars wirklich entfernt",
+      "words": 904,
+      "chars": 5350
+    },
+    "dHa_WuMt1qE": {
+      "title": "Summer vacation by electric car - 2,500km with the Tesla",
+      "words": 3523,
+      "chars": 20865
+    }
+  }
+}
